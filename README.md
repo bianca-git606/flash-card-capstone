@@ -1,1 +1,2 @@
 # flash-card-capstone
+A flash card app made with tkinter module that helps you learn french words. The app will first show you a random french word, and after 3 seconds, the card flips and it shows you the English equivalent of that word. There is a checkmark and X button to determine if you knew the word, if you click the checkmark, that means you already know the word and it removes that word from the list of words that will appear again. The app also saves your progress even if you exit out of the game.
